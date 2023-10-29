@@ -1,4 +1,4 @@
-/* public style */
+
 *{
     margin:0;
     padding: 0%;
@@ -14,7 +14,7 @@ a{
     width: 80%;
     margin: auto;
 }
-/* navbar */
+
 .navbar {
     background-color: black;
 }
@@ -48,6 +48,6 @@ text-transform: uppercase;
     padding-right:10px
 }
 .portfolio-item img{
-    display: block;
+    display:inline-block ;
     width: 100%;
 }
